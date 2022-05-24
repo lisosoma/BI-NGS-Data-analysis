@@ -3,10 +3,9 @@
 ## 1. Оценка качества исправления ошибок
 Исправить риды с помощью любой программы (лучше Quake или BayesHamme), и приложив исправленные и исходные риды к геному, оценить следующие значения:
 
-| data| Error in corrected reads | Correct base in corrected reads | Base is absent in corrected reads |
+| - | Error in corrected reads | Correct base in corrected reads | Base is absent in corrected reads |
 | Error in raw data | Undetected error (false negative) | Detected & corrected error (true positive) | Detected and removed error (true positive) |
 | Correct base in raw data | Falsely corrected error (false positive) |Correctly unmodified base (true negative) | Incorrectly removed base (false positive) |
-
 
 Кратко опишите ваш метод вычисления этих значений.
 
@@ -20,11 +19,4 @@
 
 Тестовый геном: MG1655-K12.first10K.fasta
 
-|  Model | mean R2 metric | random search metric |
-| --- | --- | --- |
-| First dataset |
-| **model I** | 0.896454 | **1172** |
-| **model II** | **0.897235** | 854 |
-| Second dataset |
-| **model I** | **0.995372** | **1034** |
-| **model II** | 0.995322 | 925 |
+
