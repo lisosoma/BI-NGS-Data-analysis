@@ -9,8 +9,12 @@
 ## 3. Проверка результатов
 Запустите на входных данных программу fastqc и сверьте полученные результаты с вашими. 
 
-[Данные](https://drive.google.com/drive/folders/1AXTNAh9edJojGRcb3L8UFaZplwUsz3mV)
+## [Данные](https://drive.google.com/drive/folders/1AXTNAh9edJojGRcb3L8UFaZplwUsz3mV)
+
 Тестовые файлы: test.fastq, test3.fastq
+
 Реальные парные риды (можно взять одну пару на выбор):
+
 frag.R1.fastq.gz, frag.R2.fastq.gz
+
 100x.1.fastq.gz, 100x.2.fastq.gz
