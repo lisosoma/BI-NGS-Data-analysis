@@ -8,7 +8,7 @@
 | Correct base in raw data | Falsely corrected error (false positive) |Correctly unmodified base (true negative) | Incorrectly removed base (false positive) |
 
 | --- | Error in corrected reads | Correct base in corrected reads | Base is absent in corrected reads |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | First dataset |
 | **model I** | 0.896454 | **1172** |
 | **model II** | **0.897235** | 854 |
