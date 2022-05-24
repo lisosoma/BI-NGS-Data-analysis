@@ -6,9 +6,9 @@
 
 
 
-|-| Error in corrected reads | Correct base in corrected reads | Base is absent in corrected reads|
-|Error in raw data| Undetected error (false negative) |Detected & corrected error (true positive) |Detected and removed error (true positive)|
-|Correct base in raw data| Falsely corrected error (false positive)|Correctly unmodified base (true negative)|Incorrectly removed base (false positive)|
+| --- | Error in corrected reads | Correct base in corrected reads | Base is absent in corrected reads |
+| Error in raw data | Undetected error (false negative) | Detected & corrected error (true positive) | Detected and removed error (true positive) |
+| Correct base in raw data | Falsely corrected error (false positive) |Correctly unmodified base (true negative) | Incorrectly removed base (false positive) |
 
 
 Кратко опишите ваш метод вычисления этих значений.
