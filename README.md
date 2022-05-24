@@ -5,3 +5,4 @@
 - **NGS_HW_2 Short read alignment**
 - **NGS_HW_3 Long read alignment**
 - **NGS_HW_4 Error correction**
+- **NGS_HW_6 QUAST**
